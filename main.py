@@ -81,11 +81,9 @@ while True:
         obj.view_entries()
 
     elif choice == 3:
-        
         obj.search_entry()
 
     elif choice == 4:
-        
         obj.delete_entries()
 
     elif choice == 5:
