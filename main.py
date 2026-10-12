@@ -81,9 +81,11 @@ while True:
         obj.view_entries()
 
     elif choice == 3:
+        pass
         obj.search_entry()
 
     elif choice == 4:
+        pass
         obj.delete_entries()
 
     elif choice == 5:
@@ -92,3 +94,4 @@ while True:
     
     else:
         print("Invalid Choice!")
+        
